@@ -21,7 +21,7 @@ pagination uygulanmıştır
 * Yine tüm Requestler için Dto yazılı olup mesajlaşma için Web Socket kullanılmıştır.
 * Tüm (API)EndPoint' ler yetkilendirilmiş olup, dinamik bir şekilde
 rollendirme yapılabilmektedir.
-#### 行内代码 Inline code
+![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
 <!DOCTYPE html>
 <html>
