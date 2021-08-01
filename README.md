@@ -7,8 +7,8 @@
 * Spring Boot
 # Frontend
 * #### React
-##### React-Rudux
-##### React-Router
+* ##### React-Rudux
+* ##### React-Router
 # Database
 * PostgreSQL
 # UI
