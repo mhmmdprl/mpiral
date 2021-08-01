@@ -7,6 +7,9 @@
 * Spring Boot
 # Frontend
 * React
+=============
+* React-Rudux
+* React-Router
 # Database
 * PostgreSQL
 # UI
@@ -21,6 +24,10 @@ pagination uygulanmıştır
 * Yine tüm Requestler için Dto yazılı olup mesajlaşma için Web Socket kullanılmıştır.
 * Tüm (API)EndPoint' ler yetkilendirilmiş olup, dinamik bir şekilde
 rollendirme yapılabilmektedir.
+> `Örnek Giriş Sayfası`
+![](https://res.cloudinary.com/dtxdu6vbg/image/upload/v1627859430/sq86bvgo6mj6dyaquhi3.png)
+> `Örnek Kayıt Sayfası`
+![](https://res.cloudinary.com/dtxdu6vbg/image/upload/v1627859433/tqg9gxvter2qdqa6rdhs.png)
 > `Örnek Ana Sayfa`
 ![](https://res.cloudinary.com/dtxdu6vbg/image/upload/v1627858608/fpajbvyjivk4hg1mziuu.png)
 > `Örnek Profil Sayfası`
