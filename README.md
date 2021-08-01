@@ -1,6 +1,6 @@
 # mpiral
 
-[Siteyi ziyaret etmek için tıklayınız](http//:www.mpiral.com)
+[Siteyi ziyaret etmek için tıklayınız](http://www.mpiral.com)
 
 
 Backend
