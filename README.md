@@ -1,7 +1,7 @@
 # mpiral.com
 
 [Siteyi ziyaret etmek için tıklayınız](http://www.mpiral.com)
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+[](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
 # Backend
 * Spring Boot
