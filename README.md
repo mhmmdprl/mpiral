@@ -21,7 +21,11 @@ pagination uygulanmıştır
 * Yine tüm Requestler için Dto yazılı olup mesajlaşma için Web Socket kullanılmıştır.
 * Tüm (API)EndPoint' ler yetkilendirilmiş olup, dinamik bir şekilde
 rollendirme yapılabilmektedir.
+> `Örnek Ana Sayfa`
+![](https://res.cloudinary.com/dtxdu6vbg/image/upload/v1627858608/fpajbvyjivk4hg1mziuu.png)
 > `Örnek Profil Sayfası`
 ![](https://res.cloudinary.com/dtxdu6vbg/image/upload/v1627858597/sfltyaa1evpop1jf8adv.png)
+> `Örnek Profil Sayfası-2`
+![](https://res.cloudinary.com/dtxdu6vbg/image/upload/v1627858604/itz9qt3gvpr2komedhq4.png)
 
 
