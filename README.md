@@ -6,9 +6,9 @@
 # Backend
 * Spring Boot
 # Frontend
- * ## React
- * ### React-Rudux
- * ### React-Router
+ *  React
+<abbr title="Hyper Text Markup Language">React-Redux</abbr> 
+ <abbr title="Hyper Text Markup Language">React-Router</abbr>
 # Database
 * PostgreSQL
 # UI
