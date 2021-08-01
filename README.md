@@ -7,8 +7,8 @@
 * Spring Boot
 # Frontend
  *  React
-- [ ] <abbr title="Hyper Text Markup Language">React-Redux</abbr> 
-- [ ] <abbr title="Hyper Text Markup Language">React-Router</abbr>
+    - [ ] <abbr title="Hyper Text Markup Language">React-Redux</abbr> 
+    - [ ] <abbr title="Hyper Text Markup Language">React-Router</abbr>
 # Database
 * PostgreSQL
 # UI
