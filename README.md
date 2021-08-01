@@ -6,9 +6,9 @@
 # Backend
 * Spring Boot
 # Frontend
-## React
-### React-Rudux
-### React-Router
+* #### React
+##### React-Rudux
+##### React-Router
 # Database
 * PostgreSQL
 # UI
